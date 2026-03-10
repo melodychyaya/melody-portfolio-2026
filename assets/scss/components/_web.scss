@@ -1,0 +1,26 @@
+.web__img {
+    border-radius: 0.75rem;
+    margin-bottom: 1rem;
+}
+
+.web__title{
+    font-size: var(--h3-font-size);
+}
+
+.web__container{
+    gap: 1.5rem;
+}
+
+// .button--link {
+//     color: var(--text-color);
+//     font-weight: var(--font-medium);
+// }
+
+.web__button i{
+    font-size: 1rem;
+    transition: .3s;
+  }
+  
+.web__button:hover i{
+    transform: translateX(.25rem);
+}

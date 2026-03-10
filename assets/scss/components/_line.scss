@@ -1,0 +1,10 @@
+/*=============== LINE ===============*/
+.line__container{
+    gap: 1.5rem;
+    justify-content: center;
+    // margin: 0;
+}
+
+.line__container .image img {
+    object-fit: initial;
+}
